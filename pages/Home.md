@@ -8,3 +8,4 @@
 ###### Дополнительно:
 - [Пакет ресурсов](https://github.com/SoSeDiK-Universe/Resource-pack).
 - [Локализация](https://github.com/SoSeDiK-Universe/Locales).
+- [Страница проверки ванильных текстур](https://github.com/SoSeDiK-Universe/Wiki/wiki/vanilla).
